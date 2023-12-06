@@ -1,26 +1,26 @@
-@0    = ~Yes?~
-@1    = ~How are you?~
-@2    = ~Why did you pick up that sword? Why would you use a magic sword you don't know?~
-@3    = ~Do you want to talk about your family?~
-@4    = ~Would you tell me about yourself?~
-@5    = ~Nothing, let's move on.~
-@6    = ~I feel devastated - like the weight of the world is on my shoulders, but there is only so little I can do to make up for my mistakes.~
-@7    = ~Hm? What? I am sorry, I was distracted by my thoughts.~
-@8    = ~I thank you for taking me along. I am eager to take those to justice who did this to my family.~
-@9    = ~I cannot stop thinking about my wife and daughters... Best not to dwell on this.~
-@10   = ~Thank you, I'll manage.~
-@11   = ~Thank you for asking. I am thinking a lot about my lost family, but these thoughts will not distract me from our task.~
-@12   = ~That's a question I have tormented myself with... The sword case was still sealed with the original Waterdhavian smithy's sign - or so I thought. It was the second time we received weapons from there, so I've seen it before. Still, assuming the sword to be the one I had ordered was unwise, to say the least. It was a trap well set, and it caught me in a moment of little sleep and much time pressure.~
-@13   = ~My wife's name is Betty. She had beautiful black hair and her eyes shone like stars ... until the moment when she threw herself onto my sword to protect our daughters... I am sorry, but I can't, <CHARNAME>. I can't talk about them.~
-@14   = ~There is not much to tell. I was captain of the Amnish Guard in Nashkel. I was ordered there a few years before the iron crisis started. Before, I was Lieutenant in another small town and before that, I was stationed as a soldier near Athkatla. I started my military career at a young age, being an only child of older parents. They died a few years ago. I had a wonderful family of my own... but you already know that part.~
+@0    = ~Sim? ~
+@1    = ~Como você está?~
+@2    = ~Por que você pegou aquela espada? Por que você usaria uma espada mágica que você não conhece?~
+@3    = ~Você quer falar sobre sua família?~
+@4    = ~Você poderia me contar sobre você?~
+@5    = ~Nada, vamos em frente.~
+@6    = ~Sinto-me arrasado - como se o peso do mundo estivesse sobre meus ombros, mas há muito pouco que posso fazer para compensar meus erros.~
+@7    = ~Hum? O que? Me desculpe, eu estava distraído com meus pensamentos.~
+@8    = ~ Obrigado por me levar junto. Estou ansioso para levar à justiça aqueles que fizeram isso com minha família.~
+@9    = ~Não consigo parar de pensar em minha esposa e filhas... Melhor não pensar nisso.~
+@10   = ~Obrigado, eu dou um jeito.~
+@11   = ~Obrigado por perguntar. Estou pensando muito na minha família perdida, mas esses pensamentos não vão me distrair da nossa tarefa.~
+@12   = ~Essa é uma pergunta com a qual me atormentei... O estojo da espada ainda estava selado com o sinal original do ferreiro de Águas Profundas - ou assim pensei. Foi a segunda vez que recebemos armas de lá, então já vi isso antes. Ainda assim, presumir que a espada era a que eu havia encomendado era imprudente, para dizer o mínimo. Foi uma armadilha bem armada e me pegou em um momento de pouco sono e muita pressão de tempo.~
+@13   = ~O nome da minha esposa é Betty. Ela tinha lindos cabelos pretos e seus olhos brilhavam como estrelas... até o momento em que ela se jogou em cima da minha espada para proteger nossas filhas... Sinto muito, mas não posso, <CHARNAME>. Não posso falar sobre eles.~
+@14   = ~Não há muito o que contar. Fui capitão da Guarda Amnish em Nashkel. Fui mandado para lá alguns anos antes do início da crise do ferro. Antes, fui tenente em outra cidade pequena e antes disso, trabalhei como soldado perto de Athkatla. Iniciei minha carreira militar muito jovem, sendo filho único de pais mais velhos. Eles morreram há alguns anos. Eu tive uma família maravilhosa... mas você já conhece essa parte.~
 
-/* new for v8.0 */
-@15   = ~[PC reply]How did you fare since we parted?~
-@16   = ~[PC reply]What brought you back to Baldur's Gate after travelling to Waterdeep?~
-@17   = ~[PC reply]What were you trying to achieve at the Sorcerous Sundries when we met?~
-@18   = ~[Brage]I focussed on finding the culprits behind the sword change. I went as far as Waterdeep where the original smith of my real sword resides to talk to him in person. One peculiar detail is that Borda had my original sword with him, so the real sword seems to have left the smithy as planned, but still the cursed one was in an original seal. The smith seemed quite shocked about this detail and an official investigation by the smithy's guild was started. They promised to let me know if they'll find anything out. I have no more information about it yet but hope to receive them at some point.~
-@19   = ~[Brage]You wouldn't believe who organized the transport of the sword, though - it was a retailer connected to the Iron Throne! No wonder they knew about it, I guess Sarevok had access to all these informations. They are destroyed since the Iron Throne came down, so there is not much I can do there any more.~
-@20   = ~[Brage]With no more clues what to do, I came back to Baldur's Gate where the Iron Throne headquarters are - I needed to do *something* until I'll hopefully hear back from the smith's investigations about a leak in his own ranks. My hope was that they had time to settle and reorganize after the chaos Sarevok caused. (scoffs) Asking about the trader who shipped the original sword did not bring any results, of course. Noone knows anything about the matter - they even refused to know the trader's name I got from the Waterdhavian smith - and were quite irritated by my questions. There is no will to help me there. Even if they knew something, I will not hear about it by asking them.~
-@21   = ~[Brage]The smith gave me detailed information about the magical ingredients of his seals. Turns out these seals aren't a trivial matter. <CHARNAME> - this means I was not all blind and dumb when taking on the cursed sword, but had a real reason to believe it to be the original one!~
-@22   = ~[Brage]The ingredients needed for it are not that common and there is only several places were they could have been bought, the Sorcerous Sundries being one of them. Surely, the Iron Throne had their own connections for these kind of ingredients, but it was worth a shot. With their headquarters here in the city, there were at least a slight chance that they did their ordering via Halbazzer. It was a fruitless endeveor, not only because of the city - and Halbazzer Drin - being swamped with refugess, but also because it would have meant persuading him to have me look into his accounting books and reveal customers' names to me. I better won't repeat what he said to me when I asked him about it.~
+/* novo para v8.0 */
+@15   = ~[Resposta do PC]Como você se saiu desde que nos separamos?~
+@16   = ~[Resposta do PC]O que o trouxe de volta a Baldur's Gate depois de viajar para Águas Profundas?~
+@17   = ~[Resposta do PC]O que você estava tentando alcançar no Sorcerous Sundries quando nos conhecemos?~
+@18   = ~[Brage]Eu me concentrei em encontrar os culpados por trás da mudança de espada. Fui até Águas Profundas, onde reside o ferreiro original da minha espada verdadeira, para falar com ele pessoalmente. Um detalhe peculiar é que Borda estava com minha espada original, então a espada real parece ter saído da ferraria como planejado, mas ainda assim a maldita estava em um selo original. O ferreiro pareceu bastante chocado com esse detalhe e uma investigação oficial pela guilda do ferreiro foi iniciada. Eles prometeram me avisar se descobrirem alguma coisa. Ainda não tenho mais informações sobre isso, mas espero recebê-las em algum momento.~
+@19   = ~[Brage]Você não acreditaria quem organizou o transporte da espada - foi um varejista ligado ao Trono de Ferro! Não admira que eles soubessem disso, acho que Sarevok teve acesso a todas essas informações. Eles foram destruídos desde a queda do Trono de Ferro, então não há mais muito que eu possa fazer lá.~
+@20   = ~[Brage]Sem mais pistas do que fazer, voltei para Baldur's Gate, onde fica o quartel-general do Trono de Ferro - eu precisava fazer *alguma coisa* até receber uma resposta das investigações do ferreiro sobre um vazamento no suas próprias fileiras. Minha esperança era que eles tivessem tempo para se estabelecer e se reorganizar após o caos causado por Sarevok. (zomba) Perguntar sobre o comerciante que enviou a espada original não trouxe nenhum resultado, é claro. Ninguém sabe nada sobre o assunto - eles até se recusaram a saber o nome do comerciante que recebi do ferreiro de Águas Profundas - e ficaram bastante irritados com as minhas perguntas. Não há vontade de me ajudar lá. Mesmo que eles soubessem de alguma coisa, não ouvirei falar perguntando a eles.~
+@21   = ~[Brage]O ferreiro me deu informações detalhadas sobre os ingredientes mágicos de seus selos. Acontece que esses selos não são um assunto trivial. <CHARNAME> - isso significa que eu não estava totalmente cego e burro ao pegar a espada amaldiçoada, mas tinha um motivo real para acreditar que ela era a original!~
+@22   = ~[Brage]Os ingredientes necessários para isso não são tão comuns e só existem vários lugares onde eles poderiam ter sido comprados, sendo o Sorcerous Sundries um deles. Certamente, o Trono de Ferro tinha suas próprias conexões para esse tipo de ingrediente, mas valia a pena tentar. Com sua sede aqui na cidade, havia pelo menos uma pequena chance de eles fazerem seus pedidos via Halbazzer. Foi um esforço infrutífero, não apenas porque a cidade - e Halbazzer Drin - estava inundada de refugiados, mas também porque isso significaria persuadi-lo a me fazer examinar seus livros contábeis e revelar-me os nomes dos clientes. É melhor não repetir o que ele me disse quando perguntei sobre isso.~
 
