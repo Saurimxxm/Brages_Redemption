@@ -1,193 +1,192 @@
-@0  = ~No! NO!! I will not touch this cursed sword again, <CHARNAME> - don't make me do this!~
-@1  = ~When asked about his past, BRAGE clears his throat and hesitates for a short moment. Then he tells about his origins from Athkatla in Amn, his life in the Amnish Guard, and his time as captain in Nashkel. "I found the lovliest wife and had the two most wonderful daughters - until I picked up a sword that was cursed. You know the rest, <CHARNAME>. Please do not make me tell it again.~
+@0  = ~Não! NÃO!! Não vou tocar nessa espada amaldiçoada novamente, <CHARNAME> - não me obrigue a fazer isso!~
+@1 = ~Quando questionado sobre seu passado, BRAGE pigarreia e hesita por um breve momento. Em seguida, ele conta sobre suas origens em Athkatla em Amn, sua vida na Guarda Amnish e seu tempo como capitão em Nashkel. "Eu encontrei a esposa mais adorável e tive duas filhas maravilhosas - até que peguei uma espada que estava amaldiçoada. Você sabe o resto, <CHARNAME>. Por favor, não me faça contar isso de novo.~
 //@2  = 
-@3  = ~When we are done and part ways, I will go in search of the maker of the cursed sword. I will travel to Waterdeep and begin my investigation at the smith of the actual sword - the forgery bore their seal, after all. Not that I really expect to find anything there, but I need to follow up on this lead.~
-@4  = ~Ajantis, if your steps guide you back to Waterdeep, we could travel together.~
-@5  = ~That is an excellent idea, Brage. I would appreciate your company on the travels.~
-@6  = ~Now that we are done, I will leave for Waterdeep.~
+@3  = ~Quando terminarmos e nos separarmos, irei em busca do criador da espada amaldiçoada. Viajarei para Águas Profundas e começarei minha investigação no ferreiro da espada real – afinal, a falsificação trazia seu selo. Não que eu realmente espere encontrar alguma coisa lá, mas preciso acompanhar essa pista.~
+@4 = ~Ajantis, se seus passos te guiarem de volta a Águas Profundas, poderíamos viajar juntos.~
+@5 = ~Essa é uma excelente ideia, Brage. Eu apreciaria sua companhia nas viagens.~
+@6 = ~Agora que terminamos, partirei para Águas Profundas.~
 
-/* new for v6.2 */
+/* novo para v6.2 */
 @7  = ~Hannah~
 
-@110  = ~Brage's Sword~
-@111  = ~Brage's Two-Handed Sword +1~
-/* unidentified description bg1:totsc */
-@112  = ~The two-handed sword is a derivative of the long sword. Weaponsmiths have always looked for ways to improve existing weapons. In an effort to improve the long sword, the blade was lengthened. Eventually, the handle had to be extended and two hands became necessary to properly swing the sword. The primary function of two-handed swords is cleaving mounted knights and breaking up pike formations. 
+@110  = ~Espada de Brage ~
+@111  = ~ Espada de Duas Mãos de Brage +1~
+/* descrição não identificada bg1:totsc */
+@112  = ~A espada de duas mãos é um derivado da espada longa. Os armeiros sempre procuraram maneiras de melhorar as armas existentes. Num esforço para melhorar a espada longa, a lâmina foi alongada. Eventualmente, o cabo teve que ser estendido e duas mãos foram necessárias para balançar a espada corretamente. A principal função das espadas de duas mãos é dividir cavaleiros montados e quebrar formações de lanças.
 
-This is the sword Brage ordered in Waterdeep.
+Esta é a espada que Brage encomendou em Águas Profundas.
 
-STATISTICS:
+ESTATISTICAS:
 
-Damage:  1D10
-Damage type:  slashing
-Weight: 15
-Speed Factor: 10
-Proficiency Type: Large Sword
-Type:  2-handed
-Not Usable By:
- Druid
- Cleric
- Mage 
- Thief~
-/* identified description bg1:totsc */
-@113  = ~The two-handed sword is a derivative of the long sword.  Weaponsmiths have always looked for ways to improve existing weapons.  In an effort to improve the long sword, the blade was lengthened.  Eventually, the handle had to be extended and two hands became necessary to properly swing the sword.  The primary function of two-handed swords is cleaving mounted knights and breaking up pike formations.  This one is particularly good at its job as it has been enchanted with a few magical properties.
+Dano: 1D10
+Tipo de dano: cortante
+Peso: 15
+Fator de velocidade: 10
+Tipo de Proficiência: Espada Grande
+Tipo: 2 mãos
+Não utilizável por:
+  druida
+  Clérigo
+  Mago
+  Ladrão~
+/* descrição identificada bg1:totsc */
+@113  = ~A espada de duas mãos é um derivado da espada longa. Os armeiros sempre procuraram maneiras de melhorar as armas existentes. Num esforço para melhorar a espada longa, a lâmina foi alongada. Eventualmente, o cabo teve que ser estendido e duas mãos foram necessárias para balançar a espada corretamente. A principal função das espadas de duas mãos é dividir cavaleiros montados e quebrar formações de lanças. Este é particularmente bom no seu trabalho, pois foi encantado com algumas propriedades mágicas.
 
-This is the sword Brage ordered in Waterdeep.
+Esta é a espada que Brage encomendou em Águas Profundas.
 
-STATISTICS:
+ESTATISTICAS:
 
-Damage:  1D10 +1
-THACO:  +1 bonus
-Damage type:  slashing
-Weight: 12
-Speed Factor: 9
-Proficiency Type: Large Sword
-Type:  2-handed
-Not Usable By:
- Druid
- Cleric
- Mage 
- Thief~
-/* unidentified description tutu / bgt */
-@114  = ~The two-handed sword is a derivative of the long sword.  Weaponsmiths have always looked for ways to improve existing weapons.  In an effort to improve the long sword, the blade was lengthened.  Eventually, the handle had to be extended and two hands became necessary to properly swing the sword.  The primary function of two-handed swords is cleaving mounted knights and breaking up pike formations.
+Dano: 1D10 +1
+TACO: +1 bônus
+Tipo de dano: cortante
+Peso: 12
+Fator de velocidade: 9
+Tipo de Proficiência: Espada Grande
+Tipo: 2 mãos
+Não utilizável por:
+  druida
+  Clérigo
+  Mago
+  Ladrão~
+/* descrição não identificada tutu / bgt */
+@114  = ~A espada de duas mãos é um derivado da espada longa. Os armeiros sempre procuraram maneiras de melhorar as armas existentes. Num esforço para melhorar a espada longa, a lâmina foi alongada. Eventualmente, o cabo teve que ser estendido e duas mãos foram necessárias para balançar a espada corretamente. A principal função das espadas de duas mãos é dividir cavaleiros montados e quebrar formações de lanças.
 
-This is the sword Brage ordered in Waterdeep.
+Esta é a espada que Brage encomendou em Águas Profundas.
 
-STATISTICS:
+ESTATISTICAS:
 
-Damage:  1D10
-Damage type:  slashing
-Weight: 12
-Speed Factor: 10
-Proficiency Type: Two Handed sword
-Type:  2-handed
-Requires: 14 Strength
-Not Usable By:
- Druid
- Cleric
- Mage 
- Thief~
-/* identified description tutu / bgt */
-@115  = ~The two-handed sword is a derivative of the long sword.  Weaponsmiths have always looked for ways to improve existing weapons.  In an effort to improve the long sword, the blade was lengthened.  Eventually, the handle had to be extended and two hands became necessary to properly swing the sword.  The primary function of two-handed swords is cleaving mounted knights and breaking up pike formations.  This one is particularly good at its job as it has been enchanted with a few magical properties.
+Dano: 1D10
+Tipo de dano: cortante
+Peso: 12
+Fator de velocidade: 10
+Tipo de proficiência: Espada de duas mãos
+Tipo: 2 mãos
+Requer: 14 de Força
+Não utilizável por:
+  druida
+  Clérigo
+  Mago
+  Ladrão~
+/* descrição identificada tutu / bgt */
+@115  = ~A espada de duas mãos é um derivado da espada longa. Os armeiros sempre procuraram maneiras de melhorar as armas existentes. Num esforço para melhorar a espada longa, a lâmina foi alongada. Eventualmente, o cabo teve que ser estendido e duas mãos foram necessárias para balançar a espada corretamente. A principal função das espadas de duas mãos é dividir cavaleiros montados e quebrar formações de lanças. Este é particularmente bom no seu trabalho, pois foi encantado com algumas propriedades mágicas.
 
-This is the sword Brage ordered in Waterdeep.
+Esta é a espada que Brage encomendou em Águas Profundas.
 
-STATISTICS:
+ESTATISTICAS:
 
-Damage:  1D10 +1
-THACO:  +1 bonus
-Damage type:  slashing
-Weight: 12
-Speed Factor: 9
-Proficiency Type: Two Handed sword
-Type:  2-handed
-Requires: 14 Strength
-Not Usable By:
- Druid
- Cleric
- Mage 
- Thief~
-/* identified description bgee / eet */
-@116  = ~The two-handed sword is a derivative of the long sword. Weaponsmiths have always looked for ways to improve existing weapons. In an effort to improve the long sword, the blade was lengthened. Eventually, the handle had to be extended and two hands became necessary to properly swing the sword. The primary function of two-handed swords is cleaving mounted knights and breaking up pike formations.
-This one is particularly good at its job as it has been enchanted with a few magical properties.
+Dano: 1D10 +1
+TACO: +1 bônus
+Tipo de dano: cortante
+Peso: 12
+Fator de velocidade: 9
+Tipo de proficiência: Espada de duas mãos
+Tipo: 2 mãos
+Requer: 14 de Força
+Não utilizável por:
+  druida
+  Clérigo
+  Mago
+  Ladrão~
+/* descrição identificada bgee / eet */
+@116  = ~A espada de duas mãos é um derivado da espada longa. Os armeiros sempre procuraram maneiras de melhorar as armas existentes. Num esforço para melhorar a espada longa, a lâmina foi alongada. Eventualmente, o cabo teve que ser estendido e duas mãos foram necessárias para balançar a espada corretamente. A principal função das espadas de duas mãos é dividir cavaleiros montados e quebrar formações de lanças.
+Este é particularmente bom no seu trabalho, pois foi encantado com algumas propriedades mágicas.
 
-This is the sword Brage ordered in Waterdeep.
+Esta é a espada que Brage encomendou em Águas Profundas.
 
-STATISTICS:
+ESTATISTICAS:
 
-THAC0: +1
-Damage: 1d10+1 (slashing)
-Speed Factor: 9
-Proficiency Type: Two-handed Sword
-Type: Two-handed
-Requires:
- 14 Strength
+TAC0: +1
+Dano: 1d10+1 (cortante)
+Fator de velocidade: 9
+Tipo de Proficiência: Espada de Duas Mãos
+Tipo: Duas mãos
+Requer:
+  14 Força
 
-Weight: 12~
-@117  = ~Hick~
-@118  = ~My servant Mulahey,
+Peso: 12~
+@117  = ~caipira~
+@118  = ~Meu servo Mulahey,
 
-Your stupid carelessness has required D. to interfere. He sent a nice surprise to the Nashkel Commander, who has found his new sword to be more special than he expected. Amnish forces are weakened for now and will not come into the deeper mine levels. Nevertheless, prepare for intruders, as numerous forces feel oblidged to investigate the sightings of your stupid kobolds. Do not fail me again. 
+Seu estúpido descuido exigiu que D. interferisse. Ele enviou uma bela surpresa ao Comandante Nashkel, que descobriu que sua nova espada era mais especial do que ele esperava. As forças Amnish estão enfraquecidas por enquanto e não entrarão nos níveis mais profundos das minas. No entanto, prepare-se para intrusos, pois inúmeras forças se sentem obrigadas a investigar os avistamentos de seus estúpidos kobolds. Não falhe comigo novamente.
 
-TAZOK~
-@119  = ~Borda,
+TAZOK ~
+@119 = ~ Borda,
 
-We do not care if you have put every effort into the task we ordered you to do. It is not our fault that the Commander went alone on his investigation, and therefore found the new sword while alone on the road instead of in the barracks as he should have been. It is your oversight the whole thing nearly failed. You are lucky that this fool went back to Nashkel at all, and that the gold we spent on this blade with its special curse was not lost altogether. So, no, you will not receive the second installment of your payment. You may keep the original sword that Brage was supposed to receive. That is compensation enough. Be glad we don't hunt you down.
+Não nos importamos se você colocou todos os esforços na tarefa que lhe ordenamos. Não é nossa culpa que o Comandante tenha ido sozinho em sua investigação e, portanto, tenha encontrado a nova espada enquanto estava sozinho na estrada, em vez de no quartel, como deveria estar. Foi por sua supervisão que tudo quase falhou. Você teve sorte de esse idiota ter voltado para Nashkel e de o ouro que gastamos nesta lâmina com sua maldição especial não ter sido perdido completamente. Então não, você não receberá a segunda parcela do seu pagamento. Você pode ficar com a espada original que Brage deveria receber. Isso é compensação suficiente. Fique feliz por não caçarmos você.
 
-TAZOK~
-@120  = ~Tazok,
+TAZOK ~
+@120 = ~Tazok,
 
-I demand you pay me the second half of what we agreed upon. That the Commander butchered his own family instead of half the garrison is not my fault. The Nashkel forces are weakened and that was the deal! You can send any letters for me to my contact at Nashkel Carnival. I found a merchant desperate enough to buy some of my special potions. He will pass on any letters as well.
+Exijo que você me pague a segunda metade do que combinamos. Que o Comandante tenha massacrado a sua própria família em vez de metade da guarnição não é culpa minha. As forças Nashkel estão enfraquecidas e esse era o acordo! Você pode enviar qualquer carta para mim para meu contato no Carnaval de Nashkel. Encontrei um comerciante desesperado o suficiente para comprar algumas de minhas poções especiais. Ele também transmitirá todas as cartas.
 
-Borda~
+Borda ~
 
-@125  = ~The two-handed sword is a derivative of the long sword. Weaponsmiths have always looked for ways to improve existing weapons. In an effort to improve the long sword, the blade was lengthened. Eventually, the handle had to be extended and two hands became necessary to properly swing the sword. The primary function of two-handed swords is cleaving mounted knights and breaking up pike formations. This one is particularly good at its job as it has been enchanted with a few magical properties.
+@125  = ~A espada de duas mãos é um derivado da espada longa. Os armeiros sempre procuraram maneiras de melhorar as armas existentes. Num esforço para melhorar a espada longa, a lâmina foi alongada. Eventualmente, o cabo teve que ser estendido e duas mãos foram necessárias para balançar a espada corretamente. A principal função das espadas de duas mãos é dividir cavaleiros montados e quebrar formações de lanças. Este é particularmente bom no seu trabalho, pois foi encantado com algumas propriedades mágicas.
 
-This is the sword Brage ordered in Waterdeep.
+Esta é a espada que Brage encomendou em Águas Profundas.
 
-STATISTICS:
+ESTATISTICAS:
 
-THAC0: +1
-Damage: 1d10+1 (slashing)
-Speed Factor: 9
-Proficiency Type: Two-handed Sword
-Type: Two-handed
-Requires:
- 14 Strength
+TAC0: +1
+Dano: 1d10+1 (cortante)
+Fator de velocidade: 9
+Tipo de Proficiência: Espada de Duas Mãos
+Tipo: Duas mãos
+Requer:
+  14 Força
 
-Weight: 12~
+Peso: 12~
 
-/* new for v8 */
-@126  = ~By the gods! What was that? The boy turned into a fiend!~
-@127  = ~Nalin's Notes~
-@128  = ~Nalin wrote down everything he could distinguish about the cursed sword in neat hand writing. The length and weight of the sword is mentioned as well as what Nalin suspects to be the nature of the curse. The notes are adorned by a rough drawing of the sword hilt and pommel.
-You should make sure Brage can hold on to these notes for his further investigations about the cursed sword's origins.~
+/* novo para v8 */
+@126  = ~Pelos deuses! O que é que foi isso? O garoto se transformou em um demônio!~
+@127 = ~Notas de Nalin~
+@128 = ~Nalin escreveu tudo o que conseguiu distinguir sobre a espada amaldiçoada em uma caligrafia elegante. O comprimento e o peso da espada são mencionados, bem como o que Nalin suspeita ser a natureza da maldição. As notas são adornadas por um desenho aproximado do punho e do punho da espada.
+Você deve certificar-se de que Brage possa guardar essas notas para futuras investigações sobre as origens da espada amaldiçoada.~
 
 /* SoD */
 @500 = ~Tilda~
-@501 = ~Mr. Gulliam~
-@502 = ~Girl's Voice~
+@501 = ~Dr. Gulliam~
+@502 = ~Voz de Meninae~
 
 
 /* brage_bd0103.baf */
-@1000 = ~Today we will march against the Crusade. Never would I have thought to be on a military mission again, and so soon.~
-@1001 = ~This is an impressive chasm. I had no idea this crypt would reach so deep down.~
-@1002 = ~Such stupidity! The destroyed bridge is not only bad for us, it also cuts a chasm between here and the northers lands!~
-@1003 = ~This Caelar is a very charismatic woman. I understand why they follow her.~
-@1004 = ~It takes a certain mindset to kill a man by pulling a lever. I am unsettled to see that it came so easily to you.~
-@1005 = ~This saved us the fight, but it was a betrayal to those we call allies, <CHARNAME>.~
-@1006 = ~Be on your guard, <CHARNAME>. I do not like this canyon, as it gives good possibility for an ambush.~
-@1007 = ~I heard about rhinoceros beetles, but I've never seen one before.~
-@1008 = ~To arms!~
-@1009 = ~We were discovered! We need to leave, and quick.~
-@1010 = ~A... a portal to Avernus! This is madness!~
-@1011 = ~It was a useless attempt to fight us.~
-@1012 = ~We have no other choice than to seek for a way to close the portal - from the other side!~
-@1013 = ~This madness, at least, is over.~
-@1014 = ~Hell... I believed I belong here, but not the way we entered.~
-@1015 = ~We need to prepare for more atacks! Our presence will be known by now.~
-@1016 = ~Into the fight!~
-@1017 = ~This was a mighty beast that died here. I cannot start to imagine the effort it took to take it down.~
-@1018 = ~Those doors look intimidating - although I can't put my finger on it why they would shake me so.~
-
+@1000 = ~Hoje marcharemos contra a Cruzada. Nunca teria pensado em estar em uma missão militar novamente, e tão cedo.~
+@1001 = ~Este é um abismo impressionante. Eu não tinha ideia de que essa cripta chegaria tão fundo.~
+@1002 = ~Que estupidez! A ponte destruída não é apenas ruim para nós, mas também abre um abismo entre aqui e as terras do Norte!~
+@1003 = ~Essa Caelar é uma mulher muito carismática. Eu entendo porque eles a seguem.~
+@1004 = ~É necessária uma certa mentalidade para matar um homem puxando uma alavanca. Estou inquieto ao ver que isso foi tão fácil para você.~
+@1005 = ~Isso nos salvou da luta, mas foi uma traição para aqueles que chamamos de aliados, <CHARNAME>.~
+@1006 = ~Fique atento, <CHARNAME>. Eu não gosto deste desfiladeiro, pois oferece boas possibilidades para uma emboscada.~
+@1007 = ~Ouvi falar de besouros rinocerontes, mas nunca vi um antes.~
+@1008 = ~Para as armas!~
+@1009 = ~Fomos descobertos! Precisamos sair e rápido.~
+@1010 = ~A... um portal para Averno! Isso é uma loucura!~
+@1011 = ~Foi uma tentativa inútil de lutar contra nós.~
+@1012 = ~Não temos outra escolha senão procurar uma maneira de fechar o portal - do outro lado!~
+@1013 = ~Essa loucura, pelo menos, acabou.~
+@1014 = ~Inferno... eu acreditava que pertencia a este lugar, mas não do jeito que entramos.~
+@1015 = ~Precisamos nos preparar para mais ataques! Nossa presença já será conhecida.~
+@1016 = ~Para a luta!~
+@1017 = ~Esta foi uma fera poderosa que morreu aqui. Não consigo imaginar o esforço necessário para derrubá-lo.~
+@1018 = ~Essas portas parecem intimidantes - embora eu não consiga identificar por que elas me sacudiriam tanto.~
 
 /* brage_bd0101.baf */
-@1050 = ~I'll be marching with the Flaming Fist...~
-@1051 = ~I'm looking foreward to being able to help these people - in a way.~
-@1052 = ~Yes, this smells of war. (sigh)~
+@1050 = ~Estarei marchando com o Punho Flamejante...~
+@1051 = ~Estou ansioso para poder ajudar essas pessoas - de certa forma.~
+@1052 = ~Sim, isso cheira a guerra. (suspiro)~
 
 /* quest bafs */
-@1100  = ~*sob*~
-@1101  = ~*muffled sound*~
-@1102  = ~*sniff*~
-@1103  = ~You could have sworn you heard sounds coming from the big fir, like sobbing of a child. If you want to know where it comes from, you will need to look closer.~
-@1104  = ~You stare into the dark of the fir tree, finally seeing some movement up in the branches.~
-@1105  = ~You need to come closer to do anything here.~
+@1100  = ~*soluço*~
+@1101  = ~*som abafado*~
+@1102  = ~*cheirar*~
+@1103  = ~Você poderia jurar que ouviu sons vindos do grande abeto, como o choro de uma criança. Se você quiser saber de onde vem, precisará olhar mais de perto.~
+@1104  = ~Você olha para a escuridão do abeto, finalmente vendo algum movimento nos galhos.~
+@1105  = ~Você precisa se aproximar para fazer qualquer coisa aqui.~
 
 /* c#brages.baf */
-@1200  = ~[Brage]Are you sure you want to wield this axe? The chance of going berserk might sound slim, but when it happens and one who is dear to you will be standing next to you, you might wake up from a nightmare.~
-@1201  = ~[Brage]Please, do not make me wield this axe. The chance of going berserk might sound slim, but when it happens and one who is dear to you will be standing next to me - we might wake up from a nightmare.~
+@1200  = ~[Brage]Tem certeza que deseja empunhar este machado? A chance de ficar furioso pode parecer pequena, mas quando isso acontecer e alguém que você ama estiver ao seu lado, você poderá acordar de um pesadelo.~
+@1201  = ~[Brage]Por favor, não me faça empunhar este machado. A chance de ficar furioso pode parecer pequena, mas quando isso acontecer e alguém que você ama estiver ao meu lado - podemos acordar de um pesadelo.~
 
 /* lines used in several files */
-@200000 = ~[PC Reply]My comrade Brage here has a cursed sword he would like to show you. Would you have a look at it and tell us anything you would know about it?~
-@200001   = ~[PC Reply]My comrade Brage here has information about a cursed sword he would like to show you. Would you have a look at it and tell us anything you would know about it?~
+@200000 = ~[[Resposta do PC]Meu camarada Brage aqui tem uma espada amaldiçoada que gostaria de mostrar a você. Você poderia dar uma olhada e nos dizer algo que você saiba sobre isso?~
+@200001   = ~[Resposta do PC]Meu camarada Brage aqui tem informações sobre uma espada amaldiçoada que gostaria de mostrar a você. Você poderia dar uma olhada e nos dizer algo que você saiba sobre isso?~
