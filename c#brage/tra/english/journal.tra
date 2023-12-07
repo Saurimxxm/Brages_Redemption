@@ -1,63 +1,63 @@
 /* SoD quest "missing refugee girl" */
-@100000 = ~Missing Girl at Dead Man's Pass~
-@100001 = ~Missing Girl at Dead Man's Pass
+@100000 = ~Garota desaparecida em Dead Man's Pass ~
+@100001 = ~Garota desaparecida em Dead Man's Pass
 
-I met a desparate uncle who is looking for his niece, Tilda. They were being chased by wild boars in the Dead Man's Pass and Tilda ran off, somewhere unknown. If we find her we should bring her to her uncle in the coalition camp. He should be near the healer tents.~
-@100002 = ~Missing Girl at Dead Man's Pass
+Conheci um tio desesperado que procura sua sobrinha, Tilda. Eles estavam sendo perseguidos por javalis na Passagem do Homem Morto e Tilda fugiu, para algum lugar desconhecido. Se a encontrarmos, devemos levá-la ao tio dela no campo da coligação. Ele deveria estar perto das tendas dos curandeiros.~
+@100002 = ~Garota desaparecida em Dead Man's Pass
 
-Tilda is sitting in a big fir tree, in the northwest of the Dead Man's Pass. She won't come with us - at least not as long as all we can do is ask nicely. I need to find a way to rescue her without scaring her, something to gain her trust - her uncle should be able to help with that. We should return to the coalition camp and ask him, he should be near the healers' tents. Or we don't care about being nice and find a way to force her down...~ 
-@100003 = ~Missing Girl at Dead Man's Pass
+Tilda está sentada em um grande abeto, no noroeste da Passagem do Homem Morto. Ela não virá conosco - pelo menos não enquanto tudo o que pudermos fazer for pedir com educação. Preciso encontrar uma maneira de resgatá-la sem assustá-la, algo para ganhar sua confiança – o tio dela deve ser capaz de ajudar com isso. Devíamos voltar ao acampamento da coligação e perguntar-lhe se ele deveria estar perto das tendas dos curandeiros. Ou não nos importamos em ser legais e encontramos uma maneira de forçá-la a desistir...~ 
+@100003 = ~ Garota desaparecida em Dead Man's Pass
 
-I turned the plea of help of the uncle to rescue his missing niece down, but Brage offered his help. He said he will do it without me even noticing and the uncle will probably ask for help with the soldiers, so I guess this is settled.~
-@100004 = ~Missing Girl at Dead Man's Pass
+Recusei o pedido de ajuda do tio para resgatar sua sobrinha desaparecida, mas Brage ofereceu sua ajuda. Ele disse que fará isso sem que eu perceba e que o tio provavelmente pedirá ajuda com os soldados, então acho que isso está resolvido.~
+@100004 = ~Garota desaparecida em Dead Man's Pass
 
-I refused to continue to help the uncle to rescue his niece, but he will probably ask for help with the soldiers, so I guess this is settled.~
-@100005 = ~Missing Girl at Dead Man's Pass
+Recusei-me a continuar ajudando o tio a resgatar a sobrinha, mas ele provavelmente pedirá ajuda aos soldados, então acho que isso está resolvido.~
+@100005 = ~Garota desaparecida em Dead Man's Pass
 
-The uncle suggested to sing Tilda an Amnian lullaby. Brage volunteered to do so - he knows the song from his own daughters.~
-@100006 = ~Missing Girl at Dead Man's Pass
+O tio sugeriu cantar para Tilda uma canção de ninar amniana. Brage se ofereceu para fazer isso - ele conhece a música por causa de suas próprias filhas.~
+@100006 = ~Garota desaparecida em Dead Man's Pass
 
-The uncle suggested to sing Tilda an Amnian lullaby. I don't know the song so I'd need someone who can. Wasn't Brage from Amn - and a father?~
-@100007 = ~Missing Girl at Dead Man's Pass
+O tio sugeriu cantar para Tilda uma canção de ninar Amniana. Não conheço a música, então preciso de alguém que saiba. Brage não era de Amn - e pai?~
+@100007 = ~Garota desaparecida em Dead Man's Pass
 
-I released Brage from the group and he will rescue the missing girl while he is not with me, so I guess this is settled.~
-@100008 = ~Missing Girl at Dead Man's Pass
+Eu liberei Brage do grupo e ele vai resgatar a garota desaparecida enquanto não estiver comigo, então acho que isso está resolvido.~
+@100008 = ~Garota desaparecida em Dead Man's Pass
 
-We managed to make Tilda climb down from the tree - and she went off into the bushes, to return to her uncle alone! I surely hope she will find her way unharmed. We should check for her next time we return to the coalition camp. She should be with her uncle near the healers' tents.~
-@100009 = ~Missing Girl at Dead Man's Pass
+Conseguimos fazer Tilda descer da árvore - e ela foi para o mato, para voltar sozinha para o tio! Eu certamente espero que ela encontre o caminho ilesa. Devíamos verificá-la na próxima vez que regressarmos ao campo da coligação. Ela deveria estar com o tio perto das tendas dos curandeiros.~
+@100009 = ~Garota desaparecida em Dead Man's Pass
 
-Tilda is safely back with her uncle.~
-@100010 = ~Missing Girl at Dead Man's Pass
+Tilda está de volta em segurança com seu tio.~
+@100010 = ~Garota desaparecida em Dead Man's Pass
 
-We managed to make Tilda climb down from the tree - alright, maybe it was a bit mean to scare her like this, but it worked. She went off into the bushes, to return to her uncle alone! I surely hope she will find her way unharmed. We should check for her next time we return to the coalition camp. She should be with her uncle near the healers' tents.~
+Conseguimos fazer Tilda descer da árvore - tudo bem, talvez tenha sido um pouco cruel assustá-la assim, mas funcionou. Ela foi para o mato, para voltar sozinha para o tio! Eu certamente espero que ela encontre o caminho ilesa. Devíamos verificá-la na próxima vez que regressarmos ao campo da coligação. Ela deveria estar com o tio perto das tendas dos curandeiros.~
 
 /* "sword path" - BG1 */
-@100015 = ~Brage's Investigation about the Cursed Sword~
-@100016 = ~Brage's Investigation about the Cursed Sword
+@100015 = ~A Investigação de Brage sobre a espada amaldiçoada~
+@100016 = ~A Investigação de Brage sobre a espada amaldiçoada
 
-Brage wants to learn as much as possible about the cursed sword, in the hopes to find the ones who forged and delivered it.~
-@100017 = ~Brage's Investigation about the Cursed Sword
+Brage quer aprender o máximo possível sobre a espada amaldiçoada, na esperança de encontrar quem a forjou e entregou.~
+@100017 = ~A Investigação de Brage sobre a Espada Amaldiçoada
 
-For his quest about the cursed sword, Brage wants to visit Nalin, the priest in the Nashel Tempel, to ask him about the notes he took about the cursed berserker sword when he investigated it.~
-@100018 = ~Brage's Investigation about the Cursed Sword
+Para sua busca pela espada amaldiçoada, Brage quer visitar Nalin, o sacerdote do Tempel Nashel, para perguntar-lhe sobre as anotações que ele fez sobre a espada berserker amaldiçoada quando a investigou.~
+@100018 = ~A Investigação de Brage sobre a espada amaldiçoada
 
-To learn as much as possible about the cursed sword, Brage wants to seek out experts on magical weapons wherever we meet them. I would assume known mages, smiths, weapon merchants, and the priests in bigger temples should count as such.~
-@100019 = ~Brage's Investigation about the Cursed Sword
+Para aprender o máximo possível sobre a espada amaldiçoada, Brage quer procurar especialistas em armas mágicas onde quer que os encontremos. Eu presumiria que magos, ferreiros, comerciantes de armas e sacerdotes conhecidos em templos maiores deveriam contar como tal.~
+@100019 = ~A Investigação de Brage sobre a espada amaldiçoada
 
-The cursed sword is no longer in our possession, so Brage really wants to collect the notes Nalin, the priest in Nashkel Temple, took about it.~
-@100020 = ~Brage's Investigation about the Cursed Sword
+A espada amaldiçoada não está mais em nossa posse, então Brage realmente quer coletar as anotações que Nalin, o sacerdote do Templo Nashkel, fez sobre ela.~
+@100020 = ~A Investigação de Brage sobre a espada amaldiçoada
 
-Brage decided not to pursue the search for the origins of the cursed sword while we are travelling the Sword Coast together.~
-@100021 = ~Brage's Investigation about the Cursed Sword
+Brage decidiu não prosseguir na busca pelas origens da espada amaldiçoada enquanto viajamos juntos pela Costa da Espada.~
+@100021 = ~A Investigação de Brage sobre a espada amaldiçoada
 
-Brage collected Nalin's notes about the cursed sword. These should be quite helpful for Brage's search, even without the sword.~
-@100022 = ~Brage's Investigation about the Cursed Sword
+Brage coletou as anotações de Nalin sobre a espada amaldiçoada. Estes devem ser bastante úteis para a busca de Brage, mesmo sem a espada.~
+@100022 = ~A Investigação de Brage sobre a espada amaldiçoada
 
-Brage was content with our investigations about the cursed sword and does not expect us to ask around any more. I will do so nontheless - maybe there is a source that can us tell something we haven't heard yet. He will continue with his search for justice after our time together comes to an end.~
-@100023 = ~Brage's Investigation about the Cursed Sword
+Brage ficou satisfeito com nossas investigações sobre a espada amaldiçoada e não espera que façamos mais perguntas. Mesmo assim, farei isso - talvez haja uma fonte que possa nos contar algo que ainda não ouvimos. Ele continuará com sua busca por justiça depois que nosso tempo juntos terminar.~
+@100023 = ~A Investigação de Brage sobre a espada amaldiçoada
 
-Brage was content with our investigations about the cursed sword so I will stop with asking around. He will continue with his search for justice after our time together comes to an end.~
+Brage estava satisfeito com nossas investigações sobre a espada amaldiçoada, então vou parar de perguntar por aí. Ele continuará com sua busca por justiça depois que nosso tempo juntos terminar.~
 /* "sword path" - SoD */
-@100024 = ~Brage's Investigation about the Cursed Sword
+@100024 = ~A Investigação de Brage sobre a espada amaldiçoada
 
-Brage got a message with regard to his search for the ones who are responsible for the dealings with the cursed sword. He has a clue where to continue his search, but he will not pursue it until Caelar and her crusade is stopped.~
+Brage recebeu uma mensagem a respeito de sua busca pelos responsáveis ​​pelo trato com a espada amaldiçoada. Ele tem uma ideia de onde continuar sua busca, mas não irá persegui-la até que Caelar e sua cruzada sejam interrompidos..~
