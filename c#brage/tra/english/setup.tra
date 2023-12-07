@@ -1,43 +1,43 @@
-@9000  = ~Brage's Redemption - Brage Joinable NPC for Baldur's Gate~ 
-@9001  = ~Assign the mod's portrait and soundset to the original Brage in game.~
-@9002  = ~Brage's Redemption mod main component needs to be installed.~
+@9000  = ~Redenção de Brage - NPC de Brage para Baldur's Gate ~
+@9001  = ~Atribuir o retrato e o conjunto de som do mod ao Brage original no jogo.~
+@9002  = ~O componente principal do mod Redemption do Brage precisa ser instalado.~~
 
-/* new for v6 */
-@9003  = ~This mod is not compatible with this game.~
-@9004  = ~This mod needs to be installed before EET_End.~
+/* novo para v6 */
+@9003  = ~Este mod não é compatível com este jogo.~
+@9004  = ~Este mod precisa ser instalado antes de EET_End.~
 
-/* new for v6.2 */
-@9005  = ~You need to modmerge your SoD game before installing any mods.~
-@9006  = ~This component makes only sense for BG1.~
+/* novo para v6.2 */
+@9005  = ~Você precisa fazer o modmerge do seu jogo SoD antes de instalar qualquer mod.
+@9006  = ~Este componente só faz sentido para BG1.~
 
-/* new for v7 */
-@9007  = ~EndlessBG1 detected: Installing crossmod...~
-@9008  = ~bg1re "Necromancer's Trouble" detected: Installing crossmod...~
-@9009  = ~bgqe "Babysitting Quest" detected: Installing crossmod...~
-@9010  = ~bgqe "Nashkell Monster" detected: Installing crossmod...~
-@9011  = ~bgqe "Warm place for Noober" detected: Installing crossmod...~
-@9012  = ~bgqe "Fallen Paladin in Baldur's Gate" detected: Installing crossmod...~
-@9013  = ~Balduran's Seatower detected: Installing crossmod...~
-@9014  = ~Northern Tales of the Sword Coast detected: Installing crossmod...~
-@9015  = ~Transitions mod detected: Installing crossmod...~
-@9016  = ~Brage's Redemption: Crossmod Content~
+/* novo para v7 */
+@9007  = ~EndlessBG1 detectado: Instalando crossmod...~
+@9008  = ~bg1re "Problema do Necromante" detectado: Instalando crossmod...~
+@9009  = ~bgqe "Missão de babá" detectada: Instalando crossmod...~
+@9010  = ~bgqe "Nashkell ​​Monster" detectado: Instalando crossmod...~
+@9011  = ~bgqe "Lugar quente para Noober" detectado: Instalando crossmod...~
+@9012  = ~bgqe "Paladino Caído em Baldur's Gate" detectado: Instalando crossmod...~
+@9013  = ~Seatower de Balduran detectado: Instalando crossmod...~
+@9014  = ~Contos do Norte da Costa da Espada detectados: Instalando crossmod...~
+@9015  = ~Mod de transição detectado: Instalando crossmod...~
+@9016  = ~Redenção de Brage: Conteúdo Crossmod~
 
 /* new for v8 */
-@9017  = ~The Boareskyr Bridge Scene mod detected: Installing crossmod...~
-@9018  = ~Thalantyr Item Upgrade mod detected: Installing crossmod...~
-@9019  = ~Ascalon's Questpack "Snakes of Abathor" detected: Installing crossmod...~
-@9020  = ~Finch NPC detected: Installing crossmod...~
-@9021  = ~bgqe "Bodies for a Good Cause" detected: Installing crossmod...~
-@9022  = ~bgqe "The House of the Lady and the Bitch Queen's Temple"  detected: Installing crossmod...~
-@9023  = ~Ajantis SoD detected: Installing crossmod...~
-@9024  = ~Imoen 4 Ever SoD component "Give Imoen dialogue content during chapters 8 to 12" detected: Installing crossmod...~
-@9025  = ~bg1npc, Quest and Interjections detected: Installing crossmod...~
-@9026  = ~bg1ub "The Mysterious Vial" detected: Installing crossmod...~
-@9027  = ~bg1re "The Honest Lies of Two Riversides" detected: Installing crossmod...~
-@9028  = ~Ascalon's Questpack "Feast for the Gnolls" detected: Installing crossmod...~
+@9017  = ~O mod Boareskyr Bridge Scene detectado: Instalando crossmod...~
+@9018  = ~Mod de atualização de item Thalantyr detectado: Instalando crossmod...~
+@9019  = ~O Questpack de Ascalon "Snakes of Abathor" detectado: Instalando crossmod...~
+@9020  = ~Finch NPC detectado: Instalando crossmod...~
+@9021  = ~bgqe "Bodies for a Good Cause" detectado: Instalando crossmod...~
+@9022  = ~bgqe "A Casa da Senhora e o Templo da Rainha Vadia" detectado: Instalando crossmod...~
+@9023  = ~Ajantis SoD detectado: Instalando crossmod...~
+@9024  = ~Componente Imoen 4 Ever SoD "Forneça conteúdo de diálogo ao Imoen durante os capítulos 8 a 12" detectado: Instalando crossmod...~
+@9025  = ~bg1npc, Quest e Interjeições detectadas: Instalando crossmod...~
+@9026  = ~bg1ub "The Mysterious Vial" detectado: Instalando crossmod...~
+@9027  = ~bg1re "As mentiras honestas de dois ribeirinhos" detectadas: Instalando crossmod...~
+@9028  = ~O Questpack de Ascalon "Feast for the Gnolls" detectado: Instalando crossmod...~
 
-/* new for v9 */
-@9029  = ~Give Brage unique Two-Handed Sword +1~
+/* novo para v9 */
+@9029  = ~Dê a Brage uma espada de duas mãos exclusiva +1~
 
-/* new for v9.1 */
-@9030  = ~Shades of the Sword Coast detected: Installing crossmod...~
+/* novo para v9.1 */
+@9030  = ~Shades of the Sword Coast detectado: Instalando crossmod...~
