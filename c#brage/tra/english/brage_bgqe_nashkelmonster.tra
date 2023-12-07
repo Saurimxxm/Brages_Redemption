@@ -1,20 +1,20 @@
-@0    = ~I am glad to see that common sense and town rights are still upheld by the Guard. Well done, Brandon.~
-@1    = ~Thank you, Comm-... Brage.~
-@2    = ~So, the mystery of the wrong egg delivery to Nashkel is solved. I didn't expect us to find this clue. But now we are left with this egg-shaped artefact that we not know anything about...~
-@3    = ~Thank you for taking care of that young wyvern inside the town. I don't even want to know what it could have done to the town's people, if it would not have been stopped so quickly.~
-@4    = ~My pleasure. I couldn't very well let it lose on the town, or the poor boy.~
-@5    = ~Well, it attacked on sight, so it was no heroic act to fight it.~
-@6    = ~Yes, nice pets your fellow townspeople have there.~
-@7    = ~Seems I have to clean up other people's messes wherever I go.~
-@8    = ~Fine, now let's move on.~
-@9    = ~Sometimes, heroic acts are born out of necessity... And tragedies could arise from even small mistakes... But that is not what I wanted to say.~
-@10   = ~I thank you for this notion.~
-@11   = ~(scoff) There is a reason there is a law against it.~
-@12   = ~And they should be thankful you do.~
-@13   = ~It is good to know the town to be safe even if...  even if I am no longer captain. I do feel protective towards the people, whether or not I'm in the Amnish Guard.~
+@0    = ~Fico feliz em ver que o bom senso e os direitos da cidade ainda são defendidos pela Guarda. Muito bem, Brandon.~
+@1    = ~Obrigado, Com-... Brage.~
+@2    = ~Então, o mistério da entrega errada do ovo para Nashkel está resolvido. Eu não esperava que encontrássemos essa pista. Mas agora ficamos com este artefato em forma de ovo sobre o qual não sabemos nada...~
+@3    = ~Obrigado por cuidar daquele jovem wyvern dentro da cidade. Eu nem quero saber o que isso poderia ter feito com a população da cidade, se não tivesse sido interrompido tão rapidamente.~
+@4    = ~Meu prazer. Eu não poderia deixar isso perder para a cidade ou para o pobre garoto.~
+@5    = ~Bem, ele atacou imediatamente, então não foi um ato heróico combatê-lo.~
+@6    = ~Sim, lindos animais de estimação que seus conterrâneos têm lá.~
+@7    = ~Parece que tenho que limpar a bagunça dos outros onde quer que eu vá.~
+@8    = ~Tudo bem, agora vamos em frente.~
+@9    = ~Às vezes, atos heróicos nascem da necessidade... E tragédias podem surgir até mesmo de pequenos erros... Mas não era isso que eu queria dizer.~
+@10   = ~Agradeço por esta ideia.~
+@11   = ~(zombar) Há uma razão pela qual existe uma lei contra isso.~
+@12   = ~E eles deveriam estar gratos por você.~
+@13   = ~É bom saber que a cidade está segura mesmo que... mesmo que eu não seja mais capitão. Eu me sinto protetor com as pessoas, esteja ou não na Guarda Amnish.~
 
 //script
-@14  = ~A... a young wyvern! Within the town's bounds?! This cannot be. Everyone, prepare for battle!~
+@14  = ~Um... um jovem wyvern! Dentro dos limites da cidade?! Isto não pode ser. Todos, preparem-se para a batalha!~
 
-/* new for v6 */
-@15  = ~[Brage]So it turns out to be an artefact of which we are warned that it could be dangerous... We should heed his warning and bring it to a magical skilled person.~
+/* novo para v6 */
+@15  = ~[Brage]Então é um artefato do qual fomos avisados ​​de que poderia ser perigoso... Deveríamos prestar atenção ao seu aviso e levá-lo a uma pessoa habilidosa em magia.~
